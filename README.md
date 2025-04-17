@@ -38,9 +38,8 @@ I'm a software developer and student at Holberton School passionate about learni
 
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ggMBD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maouia-ben-daoud)
+📧 Email: [maouiabend@gmail.com](mailto:maouiabend@gmail.com)
 ---
 
 *Thanks for visiting my profile! Let's build something amazing together 🚀*
